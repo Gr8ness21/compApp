@@ -50,7 +50,7 @@ The compApp was created for the curious traveler. When traveling to a new city I
 * Users will be able to login to edit or post
 
 ## <a name="deployment"></a>Deployed Link
-[Netlify](https://thejoospod.netlify.app)
+[Netlify](https://compapp21.netlify.app)
 
 * You can view the repository:
 [Github.com](https://github.com/Gr8ness21/compApp)
