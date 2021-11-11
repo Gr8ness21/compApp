@@ -20,6 +20,7 @@ The compApp was created for the curious traveler. When traveling to a new city I
 * JavaScript
 * HTML5
 * CSS3
+* Axios
 * Node.js
 * MongoDB
 * React.js
